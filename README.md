@@ -2,6 +2,7 @@
 Access the datasets here:
 
 ## Northwind Database
+We will use the Northwind database as an example for the guided project in SQL module. It is available as an SQL dump.
 Download [Northwind Database](northwind.postgre.sql) dataset here. 
 <br><br>
 The original database is available [here](https://code.google.com/archive/p/northwindextended/downloads).
