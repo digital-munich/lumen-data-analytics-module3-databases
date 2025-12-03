@@ -27,7 +27,6 @@ You’ll build core SQL and analytics skills using real-world datasets and struc
 
 ## 
 These datasets and guided lessons are part of [Lumen's Data Analytics Program](https://digitalmunich.com/lumen/data-analytics/), where we empower you to **Future-Proof Your Tech Career** and **Master in-demand data and AI skills and launch your dream career in just 5 weeks**.
-
 <br><br>
 ## References
 The datasets are sourced from online sources. You can view the originals here:
