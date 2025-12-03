@@ -1,4 +1,4 @@
-# Data Analytics Module 3 - Databases
+# SQL and Databases for Data Analytics
 Access the datasets here:
 
 ## SQL dump (.sql) - Northwind Database
