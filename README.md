@@ -6,21 +6,18 @@ We will use the Northwind database as an example for the guided project in SQL m
 <br><br>Download [Northwind Database](northwind.postgre.sql) dataset here. 
 
 To learn how to import data from an SQL dump file to a postgres database, checkout this short tutorial on [how to import data from an SQL dump](https://youtu.be/095GX2nwTaM).
-
 <br><br>
 ## Compressed Archive (.tar, .zip, .dat) - DVD Rental Database
 Sometimes data comes as a compressed archive, e.g. this DVD rental database.
 <br><br>Download [DVD Rental Database](dvdrental.zip) here. 
 
 Learn [how to import data from a compressed archive](https://youtu.be/979IhMfJYcA) in this short tutorial.
-
 <br><br>
 ## Comma Separated Value (.csv) - loan Database
 Often you need to import CSVs, e.g. this loan classification database.
 <br><br>Download [Loan Database](loan.csv) here. 
 
 Learn [how to import data from a csv file](https://youtu.be/ch1eCsMPxyQ) in this short tutorial.
-
 <br><br>
 ## Explore the Full Program
 The video tutorials for SQL Module are available on YouTube as part of the Fundamentals of Data Analytics series.  
