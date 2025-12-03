@@ -2,7 +2,7 @@
 Access the datasets here:
 
 ## Northwind Database
-Download [Northwind Database](rossmann-store-sales.zip) dataset here. 
+Download [Northwind Database](northwind.postgre.sql) dataset here. 
 <br><br>
 The original database is available [here](https://code.google.com/archive/p/northwindextended/downloads).
 
