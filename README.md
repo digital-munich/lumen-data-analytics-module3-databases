@@ -1,7 +1,7 @@
 # Data Analytics Module 3 - Databases
 Access the datasets here:
 
-## SQL dump - .sql - Northwind Database
+## SQL dump (.sql) - Northwind Database
 We will use the Northwind database as an example for the guided project in SQL module. It is available as an SQL dump.
 <br><br>Download [Northwind Database](northwind.postgre.sql) dataset here. 
 
@@ -9,9 +9,9 @@ To learn how to import data from an SQL dump file to a postgres database, checko
 
 <br><br>
 The original database is available [here](https://code.google.com/archive/p/northwindextended/downloads).
+<br><br>
 
-
-## Compressed Archive - .tar, .zip, .dat - DVD Rental Database
+## Compressed Archive (.tar, .zip, .dat) - DVD Rental Database
 Sometimes data comes as a compressed archive, e.g. this DVD rental database.
 <br><br>Download [DVD Rental Database](dvdrental.zip) here. 
 
@@ -21,15 +21,15 @@ Learn [how to import data from a compressed archive](https://youtu.be/979IhMfJYc
 The original database is available [here](https://neon.com/postgresql/postgresql-getting-started/postgresql-sample-database).
 
 
+<br><br>
+## Comma Separated Value (.csv) - loan Database
+Often you need to import CSVs, e.g. this loan classification database.
+<br><br>Download [Loan Database](loan.csv) here. 
 
-## Comma Separated Value - .csv - loan Database
-Sometimes data comes as a compressed archive, e.g. this DVD rental database.
-<br><br>Download [Loan Database](dvdrental.zip) here. 
-
-Learn [how to import data from a compressed archive](https://youtu.be/979IhMfJYcA) in this short tutorial.
+<br><br>Learn [how to import data from a csv file](https://youtu.be/ch1eCsMPxyQ) in this short tutorial.
 
 <br><br>
-The original database is available [here](https://neon.com/postgresql/postgresql-getting-started/postgresql-sample-database).
+The original database is available [here](https://www.kaggle.com/datasets/sujithmandala/simple-loan-classification-dataset).
 
 
 
