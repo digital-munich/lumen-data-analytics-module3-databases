@@ -26,7 +26,7 @@ The original database is available [here](https://neon.com/postgresql/postgresql
 Often you need to import CSVs, e.g. this loan classification database.
 <br><br>Download [Loan Database](loan.csv) here. 
 
-<br><br>Learn [how to import data from a csv file](https://youtu.be/ch1eCsMPxyQ) in this short tutorial.
+Learn [how to import data from a csv file](https://youtu.be/ch1eCsMPxyQ) in this short tutorial.
 
 <br><br>
 The original database is available [here](https://www.kaggle.com/datasets/sujithmandala/simple-loan-classification-dataset).
