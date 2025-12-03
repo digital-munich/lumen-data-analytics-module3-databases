@@ -3,7 +3,7 @@ Access the datasets here:
 
 ## SQL dump - .sql - Northwind Database
 We will use the Northwind database as an example for the guided project in SQL module. It is available as an SQL dump.
-Download [Northwind Database](northwind.postgre.sql) dataset here. 
+<br><br>Download [Northwind Database](northwind.postgre.sql) dataset here. 
 
 To learn how to import data from an SQL dump file to a postgres database, checkout this short tutorial on [how to import data from an SQL dump](https://youtu.be/095GX2nwTaM).
 
@@ -24,7 +24,7 @@ The original database is available [here](https://neon.com/postgresql/postgresql
 
 ## Comma Separated Value - .csv - loan Database
 Sometimes data comes as a compressed archive, e.g. this DVD rental database.
-<br><br>Download [DVD Rental Database](dvdrental.zip) here. 
+<br><br>Download [Loan Database](dvdrental.zip) here. 
 
 Learn [how to import data from a compressed archive](https://youtu.be/979IhMfJYcA) in this short tutorial.
 
